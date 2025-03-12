@@ -11,3 +11,6 @@
 
 ***2. ExampleUseCases***
 > includes two examples of how to use the class
+
+***The above listed are the only important files:***  
+***vs files/folder structure provided only for ease of viewing the examples examples (.csproj/.sln/ect.)***
